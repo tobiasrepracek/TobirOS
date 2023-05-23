@@ -11,3 +11,7 @@ Installer tries it's best to install firefox - but you need internet access - th
 You can download version 10.0.1 here:
 https://mirror1.tobir.xyz/download/TobirOS-10.0.1.iso
 (Czech language supported only at the moment)
+
+<i>You can check some of the post-install scripts here:
+https://github.com/tobiasrepracek/TobirOS-Files
+(They're not all up-to-date)
